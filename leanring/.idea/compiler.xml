@@ -9,6 +9,5 @@
         <module name="leanring" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel target="10" />
   </component>
 </project>

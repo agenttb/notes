@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5f9ebc3e-e949-400f-98a7-dc7c8c5df531" name="Default Changelist" comment="" />
-    <ignored path="$PROJECT_DIR$/out/" />
+    <list default="true" id="bc53ef9d-6d7d-484d-917a-f84f32a37dee" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leanring.iml" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,175 +15,40 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FUSProjectUsageTrigger">
-    <session id="-1539514197">
+    <session id="-1966472545">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="12" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.2" value="2" />
-          <entry key="project.open.time.3" value="1" />
-          <entry key="project.open.time.4" value="8" />
-          <entry key="project.open.time.6" value="1" />
-          <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="14" />
+          <entry key="project.opened" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="class" value="5" />
-          <entry key="java" value="6" />
+          <entry key="java" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CLASS" value="5" />
-          <entry key="JAVA" value="6" />
+          <entry key="JAVA" value="1" />
         </counts>
       </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="java" value="6995" />
-          <entry key="xml" value="13" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="6995" />
-          <entry key="XML" value="13" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.spring.boot.run.usages" />
-      <usages-collector id="statistics.vcs.git.usages" />
-      <usages-collector id="statistics.spring.boot.mvc.usages" />
-      <usages-collector id="statistics.js.language.service.starts" />
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="525">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="680">
-              <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/agenttb/code/leetcode/StringOpt.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
-              <folding>
-                <element signature="e#202#203#0" expanded="true" />
-                <element signature="e#251#252#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/agenttb/code/leetcode/ArrayOpt.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="71">
-              <caret line="22" column="18" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="18" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jrt:///usr/lib/jvm/java-1.11.0-openjdk-amd64!/java.base/java/util/LinkedList.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6520">
-              <caret line="181" column="19" selection-start-line="181" selection-start-column="19" selection-end-line="181" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jrt:///usr/lib/jvm/java-1.11.0-openjdk-amd64!/java.base/java/util/List.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/agenttb/code/leetcode/IntegerOpt.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
-              <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
-              <folding>
-                <element signature="e#109#130#1" expanded="true" />
-                <element signature="e#139#190#0" expanded="true" />
-                <element signature="e#139#190#0" expanded="true" />
-                <element signature="e#199#705#0" expanded="true" />
-                <element signature="e#199#705#0" expanded="true" />
-                <element signature="e#199#705#0" expanded="true" />
-                <element signature="e#199#705#0" expanded="true" />
-                <element signature="e#199#705#0" expanded="true" />
-                <element signature="e#369#386#0" expanded="true" />
-                <element signature="e#369#386#0" expanded="true" />
-                <element signature="e#437#572#0" expanded="true" />
-                <element signature="e#468#485#0" expanded="true" />
-                <element signature="e#468#485#0" expanded="true" />
-                <element signature="e#437#572#0" expanded="true" />
-                <element signature="e#610#643#0" expanded="true" />
-                <element signature="e#610#643#0" expanded="true" />
-                <element signature="e#610#643#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/agenttb/code/leetcode/ArrayOptTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2240">
-              <caret line="63" column="52" selection-start-line="63" selection-start-column="52" selection-end-line="63" selection-end-column="52" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1372#1465#0" expanded="true" />
-                <element signature="e#1372#1465#0" expanded="true" />
-                <element signature="e#1657#1751#0" expanded="true" />
-                <element signature="e#1657#1751#0" expanded="true" />
-                <element signature="e#1857#1877#0" expanded="true" />
-                <element signature="e#1857#1877#0" expanded="true" />
-                <element signature="e#1917#1924#0" expanded="true" />
-                <element signature="e#1917#1924#0" expanded="true" />
-                <element signature="e#2038#2131#0" expanded="true" />
-                <element signature="e#2038#2131#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="284">
+              <caret line="75" column="48" selection-start-line="75" selection-start-column="48" selection-end-line="75" selection-end-column="48" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/agenttb/code/StringOpt.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/agenttb/code/leetcode/StringOpt.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/agenttb/code/leetcode/IntegerOPt.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/agenttb/code/leetcode/IntegerOpt.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/agenttb/code/leetcode/IntegerOptTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/agenttb/code/leetcode/ArrayOptTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/agenttb/code/leetcode/ArrayOpt.java" />
-      </list>
-    </option>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -187,19 +56,13 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
-    </option>
-  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="67" />
-    <option name="y" value="44" />
-    <option name="width" value="3773" />
-    <option name="height" value="2116" />
+    <option name="x" value="125" />
+    <option name="y" value="41" />
+    <option name="width" value="1680" />
+    <option name="height" value="988" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -237,36 +100,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="code" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leanring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leanring" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leanring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leanring" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leanring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leanring" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="code" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leanring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leanring" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="code" type="462c0819:PsiDirectoryNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -274,17 +107,17 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="LinkedList&#9;FILE&#9;jrt:///usr/lib/jvm/java-1.11.0-openjdk-amd64!/java.base/java/util/LinkedList.class" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542204543382" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -298,226 +131,54 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ArrayOptTest.combinationSum2Test">
-    <configuration name="StringOpt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.agenttb.code.leetcode.StringOpt" />
-      <module name="leanring" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.agenttb.code.leetcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ArrayOptTest.combinationSum2Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="leanring" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.agenttb.code.leetcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.agenttb.code.leetcode" />
-      <option name="MAIN_CLASS_NAME" value="com.agenttb.code.leetcode.ArrayOptTest" />
-      <option name="METHOD_NAME" value="combinationSum2Test" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ArrayOptTest.combinationSumTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="leanring" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.agenttb.code.leetcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.agenttb.code.leetcode" />
-      <option name="MAIN_CLASS_NAME" value="com.agenttb.code.leetcode.ArrayOptTest" />
-      <option name="METHOD_NAME" value="combinationSumTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ArrayOptTest.testNextPermutation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="leanring" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.agenttb.code.leetcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.agenttb.code.leetcode" />
-      <option name="MAIN_CLASS_NAME" value="com.agenttb.code.leetcode.ArrayOptTest" />
-      <option name="METHOD_NAME" value="testNextPermutation" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="IntegerOptTest.testCounterAndSayStr" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="leanring" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.agenttb.code.leetcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.agenttb.code.leetcode" />
-      <option name="MAIN_CLASS_NAME" value="com.agenttb.code.leetcode.IntegerOptTest" />
-      <option name="METHOD_NAME" value="testCounterAndSayStr" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <list>
-      <item itemvalue="Application.StringOpt" />
-      <item itemvalue="JUnit.ArrayOptTest.testNextPermutation" />
-      <item itemvalue="JUnit.IntegerOptTest.testCounterAndSayStr" />
-      <item itemvalue="JUnit.ArrayOptTest.combinationSumTest" />
-      <item itemvalue="JUnit.ArrayOptTest.combinationSum2Test" />
-    </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="JUnit.ArrayOptTest.combinationSum2Test" />
-        <item itemvalue="JUnit.ArrayOptTest.combinationSumTest" />
-        <item itemvalue="JUnit.IntegerOptTest.testCounterAndSayStr" />
-        <item itemvalue="JUnit.ArrayOptTest.testNextPermutation" />
-        <item itemvalue="Application.StringOpt" />
-      </list>
-    </recent_temporary>
-  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="5f9ebc3e-e949-400f-98a7-dc7c8c5df531" name="Default Changelist" comment="" />
-      <created>1541474734907</created>
+      <changelist id="bc53ef9d-6d7d-484d-917a-f84f32a37dee" name="Default Changelist" comment="" />
+      <created>1543639761926</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1541474734907</updated>
-      <workItem from="1541474737470" duration="1099000" />
-      <workItem from="1541476293547" duration="326000" />
-      <workItem from="1541476631486" duration="3102000" />
-      <workItem from="1541581972948" duration="1229000" />
-      <workItem from="1541583436977" duration="737000" />
-      <workItem from="1541903245686" duration="1442000" />
-      <workItem from="1541981279096" duration="188000" />
-      <workItem from="1541981478462" duration="1586000" />
-      <workItem from="1542015496970" duration="1564000" />
-      <workItem from="1542092187934" duration="8353000" />
-      <workItem from="1542110889479" duration="1521000" />
-      <workItem from="1542180975215" duration="20340000" />
-      <workItem from="1542849283346" duration="1049000" />
-      <workItem from="1543229790837" duration="703000" />
+      <updated>1543639761926</updated>
+      <workItem from="1543639763218" duration="54000" />
     </task>
     <servers />
   </component>
-  <component name="TestHistory">
-    <history-entry file="ArrayOptTest_combinationSum2Test - 2018.11.14 at 21h 56m 53s.xml">
-      <configuration name="ArrayOptTest.combinationSum2Test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ArrayOptTest_combinationSum2Test - 2018.11.14 at 21h 57m 09s.xml">
-      <configuration name="ArrayOptTest.combinationSum2Test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ArrayOptTest_combinationSum2Test - 2018.11.14 at 21h 57m 15s.xml">
-      <configuration name="ArrayOptTest.combinationSum2Test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ArrayOptTest_combinationSum2Test - 2018.11.14 at 21h 59m 17s.xml">
-      <configuration name="ArrayOptTest.combinationSum2Test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ArrayOptTest_combinationSum2Test - 2018.11.14 at 22h 01m 05s.xml">
-      <configuration name="ArrayOptTest.combinationSum2Test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ArrayOptTest_combinationSum2Test - 2018.11.14 at 22h 02m 09s.xml">
-      <configuration name="ArrayOptTest.combinationSum2Test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ArrayOptTest_combinationSum2Test - 2018.11.14 at 22h 02m 25s.xml">
-      <configuration name="ArrayOptTest.combinationSum2Test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ArrayOptTest_combinationSum2Test - 2018.11.14 at 22h 03m 01s.xml">
-      <configuration name="ArrayOptTest.combinationSum2Test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ArrayOptTest_combinationSum2Test - 2018.11.14 at 22h 03m 16s.xml">
-      <configuration name="ArrayOptTest.combinationSum2Test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ArrayOptTest_combinationSum2Test - 2018.11.14 at 22h 07m 03s.xml">
-      <configuration name="ArrayOptTest.combinationSum2Test" configurationId="JUnit" />
-    </history-entry>
-  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43239000" />
+    <option name="totallyTimeSpent" value="54000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="67" y="44" width="3773" height="2116" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1858" height="1057" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21449824" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18557268" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.41087297" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.41766858" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.3298484" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Database" order="5" />
-      <window_info anchor="right" id="Theme Preview" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Maven Projects" order="8" />
     </layout>
-    <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.21233432" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.47569263" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.41766858" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.3298484" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Database" order="5" />
-      <window_info anchor="right" id="Theme Preview" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Maven Projects" order="8" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -526,158 +187,19 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/agenttb/code/test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jrt:///usr/lib/jvm/java-1.11.0-openjdk-amd64!/java.base/java/util/Arrays.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9360">
-          <caret line="280" column="27" selection-start-line="280" selection-start-column="27" selection-end-line="280" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/Assert.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="624">
-          <caret line="71" column="23" selection-start-line="71" selection-start-column="23" selection-end-line="71" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/agenttb/code/leetcode/IntegerOptTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="16" column="37" lean-forward="true" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jrt:///usr/lib/jvm/java-1.11.0-openjdk-amd64!/java.base/java/util/ArrayList.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="107" column="19" selection-start-line="107" selection-start-column="19" selection-end-line="107" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
-          <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/agenttb/code/leetcode/StringOpt.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="e#202#203#0" expanded="true" />
-            <element signature="e#251#252#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jrt:///usr/lib/jvm/java-1.11.0-openjdk-amd64!/java.base/java/util/LinkedList.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6520">
-          <caret line="181" column="19" selection-start-line="181" selection-start-column="19" selection-end-line="181" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jrt:///usr/lib/jvm/java-1.11.0-openjdk-amd64!/java.base/java/util/List.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/agenttb/code/leetcode/IntegerOpt.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
-          <folding>
-            <element signature="e#109#130#1" expanded="true" />
-            <element signature="e#139#190#0" expanded="true" />
-            <element signature="e#139#190#0" expanded="true" />
-            <element signature="e#199#705#0" expanded="true" />
-            <element signature="e#199#705#0" expanded="true" />
-            <element signature="e#199#705#0" expanded="true" />
-            <element signature="e#199#705#0" expanded="true" />
-            <element signature="e#199#705#0" expanded="true" />
-            <element signature="e#369#386#0" expanded="true" />
-            <element signature="e#369#386#0" expanded="true" />
-            <element signature="e#437#572#0" expanded="true" />
-            <element signature="e#468#485#0" expanded="true" />
-            <element signature="e#468#485#0" expanded="true" />
-            <element signature="e#437#572#0" expanded="true" />
-            <element signature="e#610#643#0" expanded="true" />
-            <element signature="e#610#643#0" expanded="true" />
-            <element signature="e#610#643#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/agenttb/code/leetcode/ArrayOptTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2240">
-          <caret line="63" column="52" selection-start-line="63" selection-start-column="52" selection-end-line="63" selection-end-column="52" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1372#1465#0" expanded="true" />
-            <element signature="e#1372#1465#0" expanded="true" />
-            <element signature="e#1657#1751#0" expanded="true" />
-            <element signature="e#1657#1751#0" expanded="true" />
-            <element signature="e#1857#1877#0" expanded="true" />
-            <element signature="e#1857#1877#0" expanded="true" />
-            <element signature="e#1917#1924#0" expanded="true" />
-            <element signature="e#1917#1924#0" expanded="true" />
-            <element signature="e#2038#2131#0" expanded="true" />
-            <element signature="e#2038#2131#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/agenttb/code/leetcode/ArrayOpt.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="71">
-          <caret line="22" column="18" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="284">
+          <caret line="75" column="48" selection-start-line="75" selection-start-column="48" selection-end-line="75" selection-end-column="48" />
         </state>
       </provider>
     </entry>
   </component>
   <component name="masterDetails">
     <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
+          <last-edited>scala-sdk-2.12.5</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -689,6 +211,18 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
           <last-edited>10</last-edited>
           <splitter-proportions>
             <option name="proportions">
@@ -699,22 +233,8 @@
           </splitter-proportions>
         </settings>
       </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>leanring</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-                <option value="0.6" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>Maven: junit:junit:4.12</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
