@@ -19,6 +19,10 @@
         <package name="com.agenttb.code.sql.model"/>
     </typeAliases>
     <mappers>
-        <mapper resource="sqlmapper/*.xml"/>
+        <mapper resource="sqlmapper/CourseMapper.xml"/>
+        <mapper resource="sqlmapper/DepartmentMapper.xml"/>
+        <mapper resource="sqlmapper/GradeMapper.xml" />
+        <mapper resource="sqlmapper/StudentMapper.xml"/>
+        <mapper resource="sqlmapper/TeacherMapper.xml"/>
     </mappers>
 </configuration>

@@ -6,12 +6,15 @@ import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.Bean;
 
 import java.util.Arrays;
+import java.util.concurrent.ExecutorService;
+import java.util.concurrent.Executors;
 
 @org.springframework.boot.autoconfigure.SpringBootApplication
 public class SpringBootApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(SpringBootApplication.class, args);
+        System.out.println("Main method runing");
     }
 
     @Bean
@@ -25,6 +28,8 @@ public class SpringBootApplication {
             for (String beanName : beanNames) {
                 System.out.println(beanName);
             }
+            System.out.println("Process is over_tianbin");
         };
+
     }
 }
