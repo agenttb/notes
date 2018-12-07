@@ -5,8 +5,8 @@ import com.agenttb.code.sql.model.Student;
 import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;
+import org.slf4j.Logger;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.boot.SpringBootConfiguration;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 
@@ -62,7 +62,7 @@ public class SpringBootMybatisDemoApplicationTest {
             if (Thread.currentThread().getId() % 2 == 0) {
                 sex = "F";
             }
-            for (int i = 0; i < 500000; i++) {
+            for (int i = 0; i < 40000; i++) {
                 Student student = new Student();
                 student.setsAge(18 + id);
                 student.setsDept(name + "compute");
