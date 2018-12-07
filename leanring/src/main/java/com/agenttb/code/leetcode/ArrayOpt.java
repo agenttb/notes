@@ -81,7 +81,6 @@ public class ArrayOpt {
     }
 
     private void combinationSum2Dfs(int[] candidates, int target, int start, LinkedList<Integer> out, List<List<Integer>> res) {
-        System.out.println("out:" + out.toString() + " target:" + target + " start:" + start);
         if (target < 0) {
             return;
         } else if (target == 0) {
