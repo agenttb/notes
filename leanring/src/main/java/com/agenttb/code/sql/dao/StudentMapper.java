@@ -12,6 +12,8 @@ public interface StudentMapper {
 
     int insert(Student record);
 
+    int batchInsert(List<Student> records);
+
     int insertSelective(Student record);
 
     List<Student> selectByExample(StudentExample example);
