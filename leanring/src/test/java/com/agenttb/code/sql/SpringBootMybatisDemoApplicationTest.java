@@ -10,6 +10,7 @@ import org.slf4j.Logger;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
+import org.springframework.transaction.annotation.EnableTransactionManagement;
 
 import java.time.LocalDate;
 import java.util.ArrayList;
@@ -23,6 +24,7 @@ import java.util.concurrent.Future;
 
 @RunWith(SpringJUnit4ClassRunner.class)
 @SpringBootTest
+@EnableTransactionManagement
 public class SpringBootMybatisDemoApplicationTest {
     private ExecutorService executorService = Executors.newFixedThreadPool(100);
     @Autowired

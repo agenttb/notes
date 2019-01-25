@@ -28,10 +28,13 @@ public class MybatisBootApplication {
             List<Student> student = batchAddStudent();
 
             int count = studentMapper.batchInsert(student);
+            session.commit();
             System.out.println("update rows == " + count);
             showIncrId(student);
         } catch (IOException e) {
             e.printStackTrace();
+        } finally {
+
         }
     }
 

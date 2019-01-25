@@ -4,7 +4,9 @@ import com.agenttb.code.sql.model.Student;
 import com.agenttb.code.sql.model.StudentExample;
 import java.util.List;
 import org.apache.ibatis.annotations.Param;
+import org.springframework.transaction.annotation.Transactional;
 
+@Transactional
 public interface StudentMapper {
     long countByExample(StudentExample example);
 
