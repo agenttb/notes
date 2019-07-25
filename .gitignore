@@ -1,4 +1,5 @@
-leanring/target/
+leanring/.idea/*
+leanring/target/*
 project-review/.idea/*
 project-review/target/*
 project-review/billing-system/billingsystem.iml

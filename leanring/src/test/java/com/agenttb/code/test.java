@@ -2,13 +2,13 @@ package com.agenttb.code;
 
 import org.junit.Test;
 
-import java.util.UUID;
+import java.time.LocalDate;
 
 public class test {
+
     @Test
-    public void printUUID() {
-        String uuid = UUID.randomUUID().toString();
-        System.out.println(uuid);
-        System.out.println(uuid.length());
+    public void testLocalDate() {
+        LocalDate localDate = LocalDate.of(2018, 10, 24);
+        System.out.println(localDate);
     }
 }
