@@ -2,10 +2,9 @@ package com.agenttb.code.sql;
 
 import com.agenttb.code.sql.dao.StudentMapper;
 import com.agenttb.code.sql.model.Student;
-import org.junit.Before;
+import com.agenttb.code.sql.model.StudentExample;
 import org.junit.Test;
 import org.junit.runner.RunWith;
-import org.slf4j.Logger;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
@@ -42,6 +41,13 @@ public class SpringBootMybatisDemoApplicationTest {
         }
         System.out.println("Insert data 5000w over");
 
+    }
+
+    @Test
+    public void selectOneTest() {
+        StudentExample example = new StudentExample();
+        example.createCriteria().andSNoEqualTo(10001);
+        List<Student> students = studentMapper.selectByExample(example);
     }
 
     private static class InsertDataTask implements Runnable {

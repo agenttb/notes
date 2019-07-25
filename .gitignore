@@ -1,0 +1,9 @@
+leanring/target/
+project-review/.idea/*
+project-review/target/*
+project-review/billing-system/billingsystem.iml
+project-review/rest-service/restservice.iml
+project-review/common-util/commonutil.iml
+project-review/.mvn/
+project-review/manifest.yml
+.idea
