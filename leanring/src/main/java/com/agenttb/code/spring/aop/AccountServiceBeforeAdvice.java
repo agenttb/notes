@@ -3,6 +3,8 @@ package com.agenttb.code.spring.aop;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.aop.MethodBeforeAdvice;
+import org.springframework.beans.factory.InitializingBean;
+import org.springframework.beans.factory.support.RootBeanDefinition;
 
 import java.lang.reflect.Method;
 
