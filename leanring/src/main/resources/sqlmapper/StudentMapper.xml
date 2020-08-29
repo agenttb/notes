@@ -139,6 +139,14 @@
       </if>
     </trim>
   </insert>
+
+  <insert id="batchInsert" parameterType="com.agenttb.code.sql.model.Student" useGeneratedKeys="true" keyProperty="sNo">
+    insert into student (s_name, s_age, s_sex,s_enrollment_date, s_dept) values
+    <foreach collection="list" item="item" separator=",">
+      (#{item.sName,jdbcType=VARCHAR}, #{item.sAge,jdbcType=INTEGER}, #{item.sSex,jdbcType=CHAR},
+      #{item.sEnrollmentDate,jdbcType=TIMESTAMP}, #{item.sDept,jdbcType=VARCHAR})
+    </foreach>
+  </insert>
   <select id="countByExample" parameterType="com.agenttb.code.sql.model.StudentExample" resultType="java.lang.Long">
     select count(*) from student
     <if test="_parameter != null">

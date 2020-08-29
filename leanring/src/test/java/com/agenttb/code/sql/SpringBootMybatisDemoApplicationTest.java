@@ -2,6 +2,7 @@ package com.agenttb.code.sql;
 
 import com.agenttb.code.sql.dao.StudentMapper;
 import com.agenttb.code.sql.model.Student;
+import com.agenttb.code.sql.model.StudentExample;
 import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -9,7 +10,9 @@ import org.slf4j.Logger;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
+import org.springframework.transaction.annotation.EnableTransactionManagement;
 
+import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.Calendar;
 import java.util.Date;
@@ -21,10 +24,29 @@ import java.util.concurrent.Future;
 
 @RunWith(SpringJUnit4ClassRunner.class)
 @SpringBootTest
+@EnableTransactionManagement
 public class SpringBootMybatisDemoApplicationTest {
     private ExecutorService executorService = Executors.newFixedThreadPool(100);
     @Autowired
     private StudentMapper studentMapper;
+
+    @Test
+    public void selectStudent() {
+        StudentExample example = new StudentExample();
+        example.createCriteria().andSNoEqualTo(10000003);
+        studentMapper.selectByExample(example);
+    }
+
+    @Test
+    public void insertOneSutdent() {
+        Student student = new Student();
+        student.setsAge(28);
+        student.setsDept("compute");
+        student.setsEnrollmentDate(new Date());
+        student.setsName("agenttb");
+        student.setsSex("M");
+        studentMapper.insert(student);
+    }
 
     @Test
     public void insertStudent() {
@@ -62,7 +84,7 @@ public class SpringBootMybatisDemoApplicationTest {
             if (Thread.currentThread().getId() % 2 == 0) {
                 sex = "F";
             }
-            for (int i = 0; i < 40000; i++) {
+            for (int i = 0; i < 100000; i++) {
                 Student student = new Student();
                 student.setsAge(18 + id);
                 student.setsDept(name + "compute");
