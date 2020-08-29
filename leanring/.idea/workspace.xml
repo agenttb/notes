@@ -1,479 +1,201 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="94dc7cb4-5210-44dd-b04b-59b5d220156f" name="Default Changelist" comment="">
+    <list default="true" id="10a65bcd-2a60-4a0d-a222-1d8c14e64ca5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/target/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="DatabaseView">
-    <option name="SHOW_INTERMEDIATE" value="true" />
-    <option name="GROUP_DATA_SOURCES" value="true" />
-    <option name="GROUP_SCHEMA" value="true" />
-    <option name="GROUP_CONTENTS" value="false" />
-    <option name="SORT_POSITIONED" value="false" />
-    <option name="SHOW_EMPTY_GROUPS" value="false" />
-    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
-    <option name="HIDDEN_KINDS">
-      <set />
-    </option>
-    <expand>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="test_student@192.168.0.103" type="feb32156:DbDataSourceImpl" />
-      </path>
-    </expand>
-    <select />
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/agenttb/code/net/Net.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
-              <folding>
-                <element signature="e#94#95#0" expanded="true" />
-                <element signature="e#143#144#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/agenttb/code/leetcode/ArrayOpt.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="780">
-              <caret line="42" column="24" selection-start-line="42" selection-start-column="17" selection-end-line="42" selection-end-column="24" />
-              <folding>
-                <element signature="e#447#477#1" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/agenttb/code/leetcode/IntegerOpt.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
-              <folding>
-                <element signature="e#109#130#1" expanded="true" />
-                <element signature="e#139#190#0" expanded="true" />
-                <element signature="e#139#190#0" expanded="true" />
-                <element signature="e#199#705#0" expanded="true" />
-                <element signature="e#204#214#1" expanded="true" />
-                <element signature="e#199#705#0" expanded="true" />
-                <element signature="e#199#705#0" expanded="true" />
-                <element signature="e#199#705#0" expanded="true" />
-                <element signature="e#199#705#0" expanded="true" />
-                <element signature="e#242#281#1" expanded="true" />
-                <element signature="e#261#280#0" expanded="true" />
-                <element signature="e#294#658#0" expanded="true" />
-                <element signature="e#299#309#1" expanded="true" />
-                <element signature="e#355#387#1" expanded="true" />
-                <element signature="e#294#658#0" expanded="true" />
-                <element signature="e#369#386#0" expanded="true" />
-                <element signature="e#294#658#0" expanded="true" />
-                <element signature="e#369#386#0" expanded="true" />
-                <element signature="e#404#420#1" expanded="true" />
-                <element signature="e#437#572#0" expanded="true" />
-                <element signature="e#468#485#0" expanded="true" />
-                <element signature="e#468#485#0" expanded="true" />
-                <element signature="e#437#572#0" expanded="true" />
-                <element signature="e#610#643#0" expanded="true" />
-                <element signature="e#610#643#0" expanded="true" />
-                <element signature="e#610#643#0" expanded="true" />
-                <element signature="e#681#694#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/agenttb/code/sql/SqlBoot.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="MavenProjectNavigator">
-    <treeState>
-      <expand>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="leanring" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-      </expand>
-      <select />
-    </treeState>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="3" />
-    <option name="y" value="23" />
-    <option name="width" value="1411" />
-    <option name="height" value="877" />
-  </component>
+  <component name="ProjectId" id="1QwuuaH4Hq50Oe8OYECPyNdAN2s" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="leanring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leanring" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leanring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leanring" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leanring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leanring" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leanring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leanring" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leanring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leanring" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="code" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leanring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leanring" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="code" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leanring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leanring" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546340284649" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568691050949" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
+  <component name="RunManager" selected="Application.RxJavaSimple">
+    <configuration name="CurriedTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.agenttb.code.j8.CurriedTest" />
+      <module name="leanring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.agenttb.code.j8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JavaNewFuture" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.agenttb.code.j8.JavaNewFuture" />
+      <module name="leanring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.agenttb.code.j8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReactorJavaSimple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.agenttb.code.rxjava.ReactorJavaSimple" />
+      <module name="leanring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.agenttb.code.rxjava.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RedisCluster" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.agenttb.code.redis.RedisCluster" />
+      <module name="leanring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.agenttb.code.redis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RxJavaSimple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.agenttb.code.rxjava.RxJavaSimple" />
+      <module name="leanring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.agenttb.code.rxjava.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
       <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
+        <item itemvalue="Application.RxJavaSimple" />
+        <item itemvalue="Application.ReactorJavaSimple" />
+        <item itemvalue="Application.JavaNewFuture" />
+        <item itemvalue="Application.CurriedTest" />
+        <item itemvalue="Application.RedisCluster" />
       </list>
-    </option>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="94dc7cb4-5210-44dd-b04b-59b5d220156f" name="Default Changelist" comment="" />
-      <created>1543285737063</created>
+      <changelist id="10a65bcd-2a60-4a0d-a222-1d8c14e64ca5" name="Default Changelist" comment="" />
+      <created>1567759028537</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1543285737063</updated>
-      <workItem from="1543285738265" duration="1885000" />
-      <workItem from="1546339492275" duration="181000" />
-      <workItem from="1546340035761" duration="249000" />
+      <updated>1567759028537</updated>
+      <workItem from="1567759031055" duration="930000" />
+      <workItem from="1568684736104" duration="4093000" />
+      <workItem from="1568694208415" duration="1227000" />
+      <workItem from="1568971264563" duration="3168000" />
+      <workItem from="1569677107394" duration="55000" />
+      <workItem from="1569677194033" duration="1270000" />
+      <workItem from="1570072137331" duration="3125000" />
+      <workItem from="1570237754788" duration="4949000" />
+      <workItem from="1571554546388" duration="208000" />
+      <workItem from="1573267381690" duration="1060000" />
+      <workItem from="1573268619876" duration="91000" />
+      <workItem from="1575169301116" duration="2430000" />
+      <workItem from="1576400916941" duration="1273000" />
+      <workItem from="1577608073722" duration="1417000" />
+      <workItem from="1580434740447" duration="1241000" />
+      <workItem from="1580442950613" duration="9613000" />
+      <workItem from="1582446505559" duration="597000" />
+      <workItem from="1582449124055" duration="597000" />
+      <workItem from="1582949286753" duration="598000" />
+      <workItem from="1585486276248" duration="49000" />
+      <workItem from="1586685796841" duration="599000" />
+      <workItem from="1586686433057" duration="616000" />
+      <workItem from="1586687870996" duration="597000" />
+      <workItem from="1589107793359" duration="98000" />
+      <workItem from="1591453807632" duration="598000" />
+      <workItem from="1591516044563" duration="66000" />
+      <workItem from="1598667049768" duration="340000" />
     </task>
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2365000" />
-  </component>
-  <component name="TodoView">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1387" height="877" extended-state="6" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16356878" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="2" />
-      <window_info id="UI Designer" order="3" />
-      <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Image Layers" order="6" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32953367" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32953367" />
-      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.24434876" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Maven Projects" order="5" />
-      <window_info anchor="right" id="Database" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Theme Preview" order="8" />
-      <window_info anchor="right" id="Maven" order="9" weight="0.32936803" />
-    </layout>
-    <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16356878" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="2" />
-      <window_info id="UI Designer" order="3" />
-      <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Image Layers" order="6" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32953367" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32953367" />
-      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.24434876" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Maven Projects" order="5" />
-      <window_info anchor="right" id="Database" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Theme Preview" order="8" />
-      <window_info anchor="right" id="Maven" order="9" weight="0.32936803" />
-    </layout-to-restore>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Merge branch 'master' of github.com:agenttb/notes&#10;&#10;# Conflicts:&#10;#&#9;leanring/.idea/workspace.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'master' of github.com:agenttb/notes&#10;&#10;# Conflicts:&#10;#&#9;leanring/.idea/workspace.xml" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
-  <component name="antWorkspaceConfiguration">
-    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
-    <option name="FILTER_TARGETS" value="false" />
+  <component name="WindowStateProjectService">
+    <state x="433" y="204" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1598667094263">
+      <screen x="49" y="23" width="1391" height="877" />
+    </state>
+    <state x="433" y="204" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/49.23.1391.877@49.23.1391.877" timestamp="1598667094263" />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="15" column="21" lean-forward="true" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/agenttb/code/net/Net.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="e#94#95#0" expanded="true" />
-            <element signature="e#143#144#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/agenttb/code/sql/SqlBoot.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/agenttb/code/leetcode/ArrayOpt.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="780">
-          <caret line="42" column="24" selection-start-line="42" selection-start-column="17" selection-end-line="42" selection-end-column="24" />
-          <folding>
-            <element signature="e#447#477#1" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/agenttb/code/leetcode/IntegerOpt.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
-          <folding>
-            <element signature="e#109#130#1" expanded="true" />
-            <element signature="e#139#190#0" expanded="true" />
-            <element signature="e#139#190#0" expanded="true" />
-            <element signature="e#199#705#0" expanded="true" />
-            <element signature="e#204#214#1" expanded="true" />
-            <element signature="e#199#705#0" expanded="true" />
-            <element signature="e#199#705#0" expanded="true" />
-            <element signature="e#199#705#0" expanded="true" />
-            <element signature="e#199#705#0" expanded="true" />
-            <element signature="e#242#281#1" expanded="true" />
-            <element signature="e#261#280#0" expanded="true" />
-            <element signature="e#294#658#0" expanded="true" />
-            <element signature="e#299#309#1" expanded="true" />
-            <element signature="e#355#387#1" expanded="true" />
-            <element signature="e#294#658#0" expanded="true" />
-            <element signature="e#369#386#0" expanded="true" />
-            <element signature="e#294#658#0" expanded="true" />
-            <element signature="e#369#386#0" expanded="true" />
-            <element signature="e#404#420#1" expanded="true" />
-            <element signature="e#437#572#0" expanded="true" />
-            <element signature="e#468#485#0" expanded="true" />
-            <element signature="e#468#485#0" expanded="true" />
-            <element signature="e#437#572#0" expanded="true" />
-            <element signature="e#610#643#0" expanded="true" />
-            <element signature="e#610#643#0" expanded="true" />
-            <element signature="e#610#643#0" expanded="true" />
-            <element signature="e#681#694#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>10</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>leanring</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-                <option value="0.6" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>10</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <last-edited>Maven: junit:junit:4.12</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/agenttb/code/redis/RedisCluster.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
