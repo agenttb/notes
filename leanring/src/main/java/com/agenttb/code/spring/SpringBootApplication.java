@@ -1,9 +1,11 @@
 package com.agenttb.code.spring;
 
+import com.agenttb.code.spring.aop.AccountService;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.Bean;
+import org.springframework.context.annotation.ComponentScan;
 
 import java.util.Arrays;
 
@@ -18,15 +20,9 @@ public class SpringBootApplication {
     @Bean
     public CommandLineRunner commandLineRunner(ApplicationContext ctx) {
         return args -> {
+            AccountService accountService = ctx.getBean(AccountService.class);
+            accountService.query();
 
-            System.out.println("Let's inspect the beans provided by Spring Boot:");
-
-            String[] beanNames = ctx.getBeanDefinitionNames();
-            Arrays.sort(beanNames);
-            for (String beanName : beanNames) {
-                System.out.println(beanName);
-            }
-            System.out.println("Process is over_tianbin");
         };
 
     }

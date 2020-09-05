@@ -1,7 +1,10 @@
 package com.agenttb.code.spring.aop;
 
+import com.agenttb.code.spring.annotation.BusinessScope;
 import org.aopalliance.aop.Advice;
 import org.springframework.aop.framework.ProxyFactoryBean;
+
+import java.lang.reflect.Method;
 
 public class AccountApplication {
 
@@ -21,6 +24,8 @@ public class AccountApplication {
         proxy.addAdvice(beforeAdvice);
         proxy.addAdvice(afterAdvice);
         proxy.addAdvice(throwAdvice);
+
+        proxy.addAdvisor(new BusinessScopeAdvisor());
 
         AccountService service = (AccountService) proxy.getObject();
         System.out.println("开始查询**********");
