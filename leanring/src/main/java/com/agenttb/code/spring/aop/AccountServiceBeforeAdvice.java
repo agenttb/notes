@@ -8,7 +8,9 @@ import org.springframework.beans.factory.support.RootBeanDefinition;
 
 import java.lang.reflect.Method;
 
-public class AccountServiceBeforeAdvice implements MethodBeforeAdvice {
+public class
+
+AccountServiceBeforeAdvice implements MethodBeforeAdvice {
 
     @Override
     public void before(Method method, Object[] args, Object target) throws Throwable {
